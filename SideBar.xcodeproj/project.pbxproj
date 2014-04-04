@@ -386,6 +386,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SideBar/SideBar-Prefix.pch";
 				INFOPLIST_FILE = "SideBar/SideBar-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -399,6 +400,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SideBar/SideBar-Prefix.pch";
 				INFOPLIST_FILE = "SideBar/SideBar-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -463,6 +465,7 @@
 				9EA7937418EE7E1900A690DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9EA7937518EE7E1900A690DA /* Build configuration list for PBXNativeTarget "SideBarTests" */ = {
 			isa = XCConfigurationList;
@@ -471,6 +474,7 @@
 				9EA7937718EE7E1900A690DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6DF98D17-35E9-4FB8-BC26-4859E74379D5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SideBar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F83F96D0-69E3-4A97-8D26-667919FF28CE</key>
+		<string>https://github.com/vivalalova/SideBar.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SideBar.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F83F96D0-69E3-4A97-8D26-667919FF28CE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vivalalova/SideBar.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F83F96D0-69E3-4A97-8D26-667919FF28CE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F83F96D0-69E3-4A97-8D26-667919FF28CE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SideBar</string>
+		</dict>
+	</array>
+</dict>
+</plist>
