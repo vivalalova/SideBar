@@ -10,4 +10,7 @@
 
 @interface LOViewController : UIViewController
 
+@property (weak, nonatomic) UIViewController *currentViewController;
+@property (weak, nonatomic) IBOutlet UIView  *placeholder;
+
 @end

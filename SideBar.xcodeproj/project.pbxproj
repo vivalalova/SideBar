@@ -21,6 +21,7 @@
 		9EA7936518EE7E1900A690DA /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EA7934718EE7E1900A690DA /* UIKit.framework */; };
 		9EA7936D18EE7E1900A690DA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9EA7936B18EE7E1900A690DA /* InfoPlist.strings */; };
 		9EA7936F18EE7E1900A690DA /* SideBarTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EA7936E18EE7E1900A690DA /* SideBarTests.m */; };
+		9EA7937A18EE7ED400A690DA /* loSegue.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EA7937918EE7ED400A690DA /* loSegue.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		9EA7936A18EE7E1900A690DA /* SideBarTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SideBarTests-Info.plist"; sourceTree = "<group>"; };
 		9EA7936C18EE7E1900A690DA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9EA7936E18EE7E1900A690DA /* SideBarTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SideBarTests.m; sourceTree = "<group>"; };
+		9EA7937818EE7ED400A690DA /* loSegue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = loSegue.h; sourceTree = "<group>"; };
+		9EA7937918EE7ED400A690DA /* loSegue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = loSegue.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +115,8 @@
 		9EA7934918EE7E1900A690DA /* SideBar */ = {
 			isa = PBXGroup;
 			children = (
+				9EA7937818EE7ED400A690DA /* loSegue.h */,
+				9EA7937918EE7ED400A690DA /* loSegue.m */,
 				9EA7935218EE7E1900A690DA /* LOAppDelegate.h */,
 				9EA7935318EE7E1900A690DA /* LOAppDelegate.m */,
 				9EA7935518EE7E1900A690DA /* Main.storyboard */,
@@ -250,6 +255,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9EA7937A18EE7ED400A690DA /* loSegue.m in Sources */,
 				9EA7935018EE7E1900A690DA /* main.m in Sources */,
 				9EA7935418EE7E1900A690DA /* LOAppDelegate.m in Sources */,
 				9EA7935A18EE7E1900A690DA /* LOViewController.m in Sources */,
